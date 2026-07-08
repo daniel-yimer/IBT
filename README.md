@@ -1,2 +1,0 @@
-# IBT
-Ibit class projects
