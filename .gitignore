@@ -1,0 +1,17 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Dependencies
+node_modules/
+venv/
+env/
+
+# Editor junk
+.vscode/
+.idea/
+
+# Build files
+dist/
+build/
+*.log
